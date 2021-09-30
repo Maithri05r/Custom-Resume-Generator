@@ -1,0 +1,16 @@
+#cv-template{
+    display:none;
+}
+
+.myimg{
+    
+    border-radius: 50%;
+    width:900px;
+}
+.background{
+    background-color: rgb(237, 245, 252);
+    font-family: sans-serif;
+}
+body{
+    background-color: lightblue;
+}
